@@ -41,3 +41,6 @@ Stages changes.
 
 ### git commit
 Records staged changes.
+
+### git merge
+Merges a branch into the current one.
