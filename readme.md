@@ -25,3 +25,6 @@ Moves or renames files.
 
 ### grep
 Searches text by pattern.
+
+### chmod
+Changes permissions.
