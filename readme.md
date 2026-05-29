@@ -10,3 +10,6 @@ Prints the current working directory.
 
 ### cd
 Changes directory.
+
+### mkdir
+Creates a directory.
