@@ -13,3 +13,6 @@ Changes directory.
 
 ### mkdir
 Creates a directory.
+
+### rm
+Removes files.
