@@ -35,3 +35,6 @@ Changes permissions.
 
 ### git init
 Initializes a new repo.
+
+### git add
+Stages changes.
