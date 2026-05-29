@@ -16,3 +16,6 @@ Creates a directory.
 
 ### rm
 Removes files.
+
+### cp
+Copies files.
