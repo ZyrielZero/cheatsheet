@@ -38,3 +38,6 @@ Initializes a new repo.
 
 ### git add
 Stages changes.
+
+### git commit
+Records staged changes.
