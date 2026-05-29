@@ -46,4 +46,7 @@ Records staged changes.
 Merges a branch into the current one.
 
 ### git push
-Uploads commit ot a remote.
+Uploads commit to a remote.
+
+### git pull
+Fetches and merges changes from remote into current branch.
