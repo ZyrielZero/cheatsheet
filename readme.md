@@ -44,3 +44,6 @@ Records staged changes.
 
 ### git merge
 Merges a branch into the current one.
+
+### git push
+Uploads commit ot a remote.
