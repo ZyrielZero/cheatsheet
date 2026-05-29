@@ -7,3 +7,6 @@ Lists files and directories.
 
 ### pwd
 Prints the current working directory.
+
+### cd
+Changes directory.
