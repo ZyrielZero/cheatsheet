@@ -19,3 +19,6 @@ Removes files.
 
 ### cp
 Copies files.
+
+### mv
+Moves or renames files.
