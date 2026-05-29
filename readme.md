@@ -2,6 +2,8 @@
 
 A quick reference to common commands.
 
+## Linux Commands
+
 ### ls
 Lists files and directories.
 
@@ -28,3 +30,8 @@ Searches text by pattern.
 
 ### chmod
 Changes permissions.
+
+## Git Commands
+
+### git init
+Initializes a new repo.
